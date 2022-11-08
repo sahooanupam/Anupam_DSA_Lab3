@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		int value;
-		int givenSum=140;
+		int givenSum=90;
 		int[] arr= {40, 20, 60, 10, 30, 50, 70};
 		Node root=null;
 		//HashSet<Integer> set;
